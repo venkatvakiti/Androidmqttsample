@@ -1,0 +1,30 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(–òÈö
+V	java:S125O"<This block of commented-out lines of code should be removed.(ÓÏÑüÿÿÿÿ
+F
+java:S1659 "$Declare "btnid1" on a separate line.(¦¿»ßüÿÿÿÿ8Ğ€¹”É.
+Q	java:S125+"<This block of commented-out lines of code should be removed.(¥¤Ö†
+E
+java:S1604C"(Make this anonymous inner class a lambda(‘ÌŒŒ8åÒ¹”É.
+V	java:S125"<This block of commented-out lines of code should be removed.(ÍŞ–ûÿÿÿÿ
+Y	java:S125–"<This block of commented-out lines of code should be removed.(™Ö…œ8©‘ª”É.
+Y	java:S125“"<This block of commented-out lines of code should be removed.(áà­¾8Ğê»”É.
+W	java:S125€"<This block of commented-out lines of code should be removed.(Ö‡Â’úÿÿÿÿ
+C
+java:S1144¸",Remove this unused private "connect" method.(äÒÊÌ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÃÜëøÿÿÿÿ
+—
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÆÛ†
+r	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ëä¤üÿÿÿÿ8£Ñ¼”É.
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ïÊ˜
+x
+java:S1104"]Make mqttAndroidClient a static final constant or non-public and provide accessors if needed.(ïùã›şÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ìæùıÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(º×ë¦şÿÿÿÿ
+X	java:S125V"<This block of commented-out lines of code should be removed.(™Ö…œ8£Ñ¼”É.
+W	java:S125‰"<This block of commented-out lines of code should be removed.(«é úÿÿÿÿ
+s	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ»¹—ÿÿÿÿÿ8½Ğ®”É.
+C
+java:S1604I"(Make this anonymous inner class a lambda(†áø›şÿÿÿÿ
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ìæùıÿÿÿÿ8£Ñ¼”É.
